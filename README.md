@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡ About Me / 私について
+## ⚡About Me
 
 ```cpp
 #include <iostream>
@@ -59,13 +59,13 @@ int main() {
 - 🌃 Вайб: киберпанк, неон, ночные коммиты, lofi в наушниках
 - 🎯 Цель: красный/оранжевый на Codeforces + сильный бекенд-портфолио
 
-## ⚔️ Tech Stack / 技術
+## ⚔️Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,fastapi,django,git,linux,vscode,postgres,docker,bash&theme=dark&perline=6"/>
 </p>
 
-## 🏆 Competitive Programming / 競プロ
+## 🏆Competitive Programming
 
 <p align="center">
   <a href="https://codeforces.com/profile/KarzanovDmitry">
@@ -80,7 +80,7 @@ int main() {
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=KarzanovDmitry&theme=dark"/>
 </p>
 
-## 📊 GitHub Stats / 統計
+## 📊GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DmitryKarzanov&show_icons=true&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=d1f7ff&border_color=7700ff&include_all_commits=true&count_private=true"/>
@@ -91,40 +91,14 @@ int main() {
   <img src="https://streak-stats.demolab.com?user=DmitryKarzanov&theme=dark&background=0d0221&border=7700ff&ring=ff2a6d&fire=05d9e8&currStreakLabel=ff2a6d&sideLabels=d1f7ff&dates=d1f7ff"/>
 </p>
 
-## 🐍 Contribution Snake / 蛇
+## 🐍Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DmitryKarzanov/DmitryKarzanov/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-## 🏅 Trophies / トロフィー
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DmitryKarzanov&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10"/>
-</p>
-
-## 🚀 Featured Projects / プロジェクト
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 Backend
-- **[project-name](https://github.com/DmitryKarzanov/project)** — REST API на FastAPI + PostgreSQL
-- **[bot-name](https://github.com/DmitryKarzanov/bot)** — Telegram-бот на aiogram
-- **[parser](https://github.com/DmitryKarzanov/parser)** — парсер данных + async
-
 </td>
 <td width="50%" valign="top">
-
-### ⚡ C++ / CP
-- **[algorithms](https://github.com/DmitryKarzanov/algo)** — решения задач с CF
-- **[data-structures](https://github.com/DmitryKarzanov/ds)** — свои реализации STL
-- **[console-game](https://github.com/DmitryKarzanov/game)** — игра на C++/SFML
-
-</td>
-</tr>
-</table>
 
 ## 🌐 Contact / 連絡
 
