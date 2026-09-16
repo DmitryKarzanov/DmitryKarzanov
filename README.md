@@ -20,15 +20,15 @@
 
 ## ⚡About Me
 - 🎌 16-летний разработчик из России
-- ⚙️ Python (FastAPI/Django/aiogram)
+- ⚙️ Python
 - ⚡ **Спортивное программирование С++**
-- 🎨 **Frontend-база** — HTML + CSS (чтобы бекенд не был голым)
+- 🎨 **Frontend-база** — HTML + CSS
 - 🎯 Цель: красный/оранжевый на Codeforces + сильное портфолио
 
 ## ⚔️Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,fastapi,django,git,linux,vscode,postgres,docker,bash&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,vscode,mysql,windows,git,css,html,django,docker&theme=dark&perline=5"/>
 </p>
 
 ## 🏆Competitive Programming
