@@ -12,7 +12,7 @@
 <tr>
 <td width="45%" valign="top">
 
-## ⚔️ Tech Stack / 技術
+## ⚔️ Tech Stack 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,vscode,mysql,windows,git,css,html,django,docker&theme=dark&perline=5"/>
@@ -26,7 +26,7 @@
 </td>
 <td width="45%" valign="top">
 
-## ⚡ About Me / 私について
+## ⚡ About Me 
 
 - 🎌 16-летний разработчик из России
 - ⚙️ Python
