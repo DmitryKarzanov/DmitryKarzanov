@@ -7,16 +7,13 @@
 <img src="https://img.shields.io/badge/AGE-16-05d9e8?style=for-the-badge&labelColor=0d0221"/>
 <img src="https://img.shields.io/badge/STATUS-CODING-7700ff?style=for-the-badge&labelColor=0d0221"/>
 </p>
-
 ## ⚡About Me
 - 🎌 16-летний разработчик из России
 - ⚙️ Python
 - ⚡ **Спортивное программирование С++**
 - 🎨 **Frontend-база** — HTML + CSS
 - 🎯 Цель: красный/оранжевый на Codeforces + сильное портфолио
-
 ## ⚔️Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,vscode,mysql,windows,git,css,html,django,docker&theme=dark&perline=5"/>
 </p>
