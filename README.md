@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/-vKY__mGiKQAAAAC/kaoruko-waguri-kaoruko.gif" width="30%"/>
+<img src="https://media1.tenor.com/m/HS3KuO6OhjkAAAAd/denji.gif" width="100%"/>
 </div>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&color=FF2A6D&size=26&center=true&vCenter=true&width=700&lines=システム起動...;SYSTEM+ONLINE;16+y.o.+Backend+Dev+from+Russia;Python+%7C+C%2B%2B+%7C+CSS+%7C+HTML;Competitive+Programmer" />
+</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/🇷🇺-RUSSIA-ff2a6d?style=for-the-badge&labelColor=0d0221"/>
@@ -8,27 +12,31 @@
 <img src="https://img.shields.io/badge/STATUS-CODING-7700ff?style=for-the-badge&labelColor=0d0221"/>
 </p>
 
-## ⚡About Me
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DmitryKarzanov&style=for-the-badge&color=ff2a6d&label=VISITORS"/>
+</p>
 
-&lt;table align="center"&gt;
-&lt;tr&gt;
-&lt;td width="45%" valign="top"&gt;
+---
 
-## ⚔️Tech Stack
+<table align="center">
+<tr>
+<td width="45%" valign="top">
 
-&lt;p align="center"&gt;
-&lt;img src="https://skillicons.dev/icons?i=python,cpp,vscode,mysql,windows,git,css,html,django,docker&theme=dark&perline=5"/&gt;
-&lt;/p&gt;
+## ⚔️ Tech Stack / 技術
 
-&lt;/td&gt;
-&lt;td width="10%" align="center" valign="middle"&gt;
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,vscode,mysql,windows,git,css,html,django,docker&theme=dark&perline=5"/>
+</p>
 
-&lt;img width="2" height="170" src="https://placehold.co/2x400/7700ff/ff2a6d.png"/&gt;
+</td>
+<td width="10%" align="center" valign="middle">
 
-&lt;/td&gt;
-&lt;td width="45%" valign="top"&gt;
+<img width="2" height="170" src="https://placehold.co/2x400/7700ff/ff2a6d.png"/>
 
-## ⚡About Me
+</td>
+<td width="45%" valign="top">
+
+## ⚡ About Me / 私について
 
 - 🎌 16-летний разработчик из России
 - ⚙️ Python
@@ -36,9 +44,9 @@
 - 🎨 **Frontend-база** — HTML + CSS
 - 🎯 Цель: красный/оранжевый на Codeforces + сильное портфолио
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+</td>
+</tr>
+</table>
 
 ## 🏆Competitive Programming
 
