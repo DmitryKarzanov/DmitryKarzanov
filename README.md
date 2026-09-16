@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/-vKY__mGiKQAAAAC/kaoruko-waguri-kaoruko.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/-vKY__mGiKQAAAAC/kaoruko-waguri-kaoruko.gif" width="60%"/>
 </div>
 
 <h1 align="center">
@@ -50,22 +50,8 @@
 ## 📊GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DmitryKarzanov&show_icons=true&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=d1f7ff&border_color=7700ff&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryKarzanov&layout=compact&bg_color=0d0221&title_color=ff2a6d&text_color=d1f7ff&border_color=7700ff&langs_count=8"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=DmitryKarzanov&theme=dark&background=0d0221&border=7700ff&ring=ff2a6d&fire=05d9e8&currStreakLabel=ff2a6d&sideLabels=d1f7ff&dates=d1f7ff"/>
 </p>
-
-## 🐍Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DmitryKarzanov/DmitryKarzanov/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-</td>
-<td width="50%" valign="top">
 
 ## 🌐 Contact / 連絡
 
