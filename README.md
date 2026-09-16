@@ -7,12 +7,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🇷🇺-RUSSIA-ff2a6d?style=for-the-badge&labelColor=0d0221"/>
-  <img src="https://img.shields.io/badge/AGE-16-05d9e8?style=for-the-badge&labelColor=0d0221"/>
-  <img src="https://img.shields.io/badge/STATUS-CODING-7700ff?style=for-the-badge&labelColor=0d0221"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DmitryKarzanov&style=for-the-badge&color=ff2a6d&label=VISITORS"/>
 </p>
 
