@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/-vKY__mGiKQAAAAC/kaoruko-waguri-kaoruko.gif" width="60%"/>
+  <img src="https://media1.tenor.com/m/-vKY__mGiKQAAAAC/kaoruko-waguri-kaoruko.gif" width="40%"/>
 </div>
 
 <p align="center">
@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/AGE-16-05d9e8?style=for-the-badge&labelColor=0d0221"/>
 <img src="https://img.shields.io/badge/STATUS-CODING-7700ff?style=for-the-badge&labelColor=0d0221"/>
 </p>
----
 
 ## ⚡About Me
 - 🎌 16-летний разработчик из России
