@@ -42,7 +42,7 @@
 
 <p align="center"> …бейджи CF и ACMP… </p>
 
-<img align="left" width="48%" src="https://codeforces-readme-stats.../card?username=KarzanovDmitry&theme=dark"/>
+<img align="left" width="48%" src="https://streak-stats.demolab.com?user=DmitryKarzanov&theme=dark&background=0d0221&border=7700ff&ring=ff2a6d&fire=05d9e8&currStreakLabel=ff2a6d&sideLabels=d1f7ff&dates=d1f7ff"/>
 
 <img align="right" width="48%" src="https://img.shields.io/badge/Codeforces-KarzanovDmitry-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0221."/>
 <img align="right" width="48%" src="https://img.shields.io/badge/ACMP-Profile-05d9e8?style=for-the-badge&labelColor=0d0221"/>
