@@ -20,11 +20,10 @@
 
 ## ⚡About Me
 - 🎌 16-летний разработчик из России
-- ⚙️ **Backend** — Python (FastAPI/Django/aiogram), БД, API
-- ⚡ **Спортивное программирование** — C++, алгоритмы, Codeforces
+- ⚙️ Python (FastAPI/Django/aiogram)
+- ⚡ **Спортивное программирование С++**
 - 🎨 **Frontend-база** — HTML + CSS (чтобы бекенд не был голым)
-- 🌃 Вайб: киберпанк, неон, ночные коммиты, lofi в наушниках
-- 🎯 Цель: красный/оранжевый на Codeforces + сильный бекенд-портфолио
+- 🎯 Цель: красный/оранжевый на Codeforces + сильное портфолио
 
 ## ⚔️Tech Stack
 
@@ -53,7 +52,7 @@
   <img src="https://streak-stats.demolab.com?user=DmitryKarzanov&theme=dark&background=0d0221&border=7700ff&ring=ff2a6d&fire=05d9e8&currStreakLabel=ff2a6d&sideLabels=d1f7ff&dates=d1f7ff"/>
 </p>
 
-## 🌐 Contact / 連絡
+## 🌐Contact
 
 <p align="center">
   <a href="https://t.me/MiniLaid">
