@@ -2,9 +2,11 @@
   <img src="https://media1.tenor.com/m/-vKY__mGiKQAAAAC/kaoruko-waguri-kaoruko.gif" width="60%"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&color=FF2A6D&size=26&center=true&vCenter=true&width=700&lines=システム起動...;SYSTEM+ONLINE;16+y.o.+Backend+Dev+from+Russia;Python+%7C+C%2B%2B+%7C+CSS+%7C+HTML;Competitive+Programmer" />
-</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/🇷🇺-RUSSIA-ff2a6d?style=for-the-badge&labelColor=0d0221"/>
+<img src="https://img.shields.io/badge/AGE-16-05d9e8?style=for-the-badge&labelColor=0d0221"/>
+<img src="https://img.shields.io/badge/STATUS-CODING-7700ff?style=for-the-badge&labelColor=0d0221"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DmitryKarzanov&style=for-the-badge&color=ff2a6d&label=VISITORS"/>
