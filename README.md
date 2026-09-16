@@ -10,17 +10,35 @@
 
 ## ⚡About Me
 
-- 🎌 16-летний разработчик из России
-- ⚙️ Python
-- ⚡ **Спортивное программирование С++**
-- 🎨 **Frontend-база** — HTML + CSS
-- 🎯 Цель: красный/оранжевый на Codeforces + сильное портфолио
+&lt;table align="center"&gt;
+&lt;tr&gt;
+&lt;td width="45%" valign="top"&gt;
 
 ## ⚔️Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,vscode,mysql,windows,git,css,html,django,docker&theme=dark&perline=5"/>
-</p>
+&lt;p align="center"&gt;
+&lt;img src="https://skillicons.dev/icons?i=python,cpp,vscode,mysql,windows,git,css,html,django,docker&theme=dark&perline=5"/&gt;
+&lt;/p&gt;
+
+&lt;/td&gt;
+&lt;td width="10%" align="center" valign="middle"&gt;
+
+&lt;img width="2" height="170" src="https://placehold.co/2x400/7700ff/ff2a6d.png"/&gt;
+
+&lt;/td&gt;
+&lt;td width="45%" valign="top"&gt;
+
+## ⚡About Me
+
+- 🎌 16-летний разработчик из России
+- ⚙️ Python
+- ⚡ **Спортивное программирование** — C++
+- 🎨 **Frontend-база** — HTML + CSS
+- 🎯 Цель: красный/оранжевый на Codeforces + сильное портфолио
+
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
 ## 🏆Competitive Programming
 
