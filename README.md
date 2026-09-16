@@ -44,9 +44,9 @@
 
 <img align="left" width="48%" src="https://codeforces-readme-stats.../card?username=KarzanovDmitry&theme=dark"/>
 
-<img align="right" width="48%" src="https://github-readme-stats.../api?username=DmitryKarzanov..."/>
-<img align="right" width="48%" src="https://github-readme-stats.../top-langs/?username=DmitryKarzanov..."/>
-<img align="right" width="48%" src="https://streak-stats.demolab.com?user=DmitryKarzanov..."/>
+<img align="right" width="48%" src="https://img.shields.io/badge/Codeforces-KarzanovDmitry-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0221."/>
+<img align="right" width="48%" src="https://img.shields.io/badge/ACMP-Profile-05d9e8?style=for-the-badge&labelColor=0d0221"/>
+<img align="right" width="48%" src="https://codeforces-readme-stats.vercel.app/api/card?username=KarzanovDmitry&theme=dark"/>
 
 <br clear="both"/>
 
