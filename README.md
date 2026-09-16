@@ -38,7 +38,7 @@
 </tr>
 </table>
 
-## 🏆 Competitive Programming &nbsp;|&nbsp; 📊 GitHub Stats
+## 🏆 Competitive Programming &nbsp;|&nbsp; 📊 GitHub Stats / 競プロ・統計
 
 <p align="center"> …бейджи CF и ACMP… </p>
 
