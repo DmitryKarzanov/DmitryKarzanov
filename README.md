@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/HS3KuO6OhjkAAAAd/denji.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/-vKY__mGiKQAAAAC/kaoruko-waguri-kaoruko.gif" width="100%"/>
 </div>
 
 <h1 align="center">
