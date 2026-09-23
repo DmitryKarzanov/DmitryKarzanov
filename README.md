@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/1200x/08/36/03/0836031c95762bdfd5ec95d9d20184a6.jpg" width="60%"/>
+  <img src="assets/banner.jpg" width="60%"/>
 </div>
 
 <p align="center">
@@ -62,25 +62,25 @@
 </p>
 Это слева
 
-## 🌐Contact
+## 🌐 Contact
 
 <p align="center">
   <a href="https://t.me/MiniLaid">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0221"/>
+    <img src="assets/icons/telegram.png" width="48" height="48" alt="Telegram" title="Telegram"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://vk.ru/pocketbodybillder">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&labelColor=0d0221"/>
+    <img src="assets/icons/vk.png" width="48" height="48" alt="VK" title="VK"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:dimahuawei2010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff2a6d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221"/>
+    <img src="assets/icons/email.png" width="48" height="48" alt="Email" title="Email"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/fsqQehWgyOIAAAAd/bubu.gif" width="320"/>
+  <img src="assets/bubu.gif" width="320"/>
 </div>
-
-<div align="center">
 
 > *"The Net is vast and infinite."* — Ghost in the Shell
 >
