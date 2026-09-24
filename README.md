@@ -12,7 +12,7 @@
 <tr>
 <td width="45%" valign="top">
 
-## ⚔️ Tech Stack 
+ ⚔️ Tech Stack 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,vscode,mysql,windows,git,css,html,django,docker&theme=dark&perline=5"/>
@@ -26,7 +26,7 @@
 </td>
 <td width="45%" valign="top">
 
-## ⚡ About Me 
+ ⚡ About Me 
 
 - 🎌 16-летний разработчик из России
 - ⚙️ Python
@@ -38,7 +38,7 @@
 </tr>
 </table>
 
-## 📊GitHub Stats
+ 📊GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DmitryKarzanov&theme=dark&background=0d0221&border=7700ff&ring=ff2a6d&fire=05d9e8&currStreakLabel=ff2a6d&sideLabels=d1f7ff&dates=d1f7ff"/>
@@ -46,7 +46,7 @@
 Это справа 
 
 
-## 🏆Competitive Programming
+ 🏆Competitive Programming
 
 <p align="center">
   <a href="https://codeforces.com/profile/KarzanovDmitry">
@@ -62,7 +62,7 @@
 </p>
 Это слева
 
-## 🌐 Contact
+ 🌐 Contact
 
 <p align="center">
   <a href="https://t.me/MiniLaid">
