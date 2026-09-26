@@ -94,7 +94,7 @@
   <!-- Верхняя часть: Аниме-баннер -->
   <tr>
     <td colspan="2" style="padding: 0;">
-      <img src="/assets/reze.jpg" alt="Anime Banner" width="100%" style="display: block; height: 250px; object-fit: cover; object-position: center 30%; filter: brightness(0.7);">
+      <img src="assets/reze.jpg" alt="Anime Banner" width="100%" style="display: block; height: 250px; object-fit: cover; object-position: center 30%; filter: brightness(0.7);">
     </td>
   </tr>
   
@@ -112,7 +112,7 @@
     </td>
     <!-- Правая колонка: Пингвинчик -->
     <td width="140" style="padding: 30px; vertical-align: bottom; text-align: right;">
-      <img src="/assets/ping.jpg" alt="Penguin" width="100" style="border-radius: 10px; display: inline-block; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="assets/ping.jpg" alt="Penguin" width="100" style="border-radius: 10px; display: inline-block; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
     </td>
   </tr>
   
