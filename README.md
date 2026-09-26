@@ -88,6 +88,17 @@
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=100&section=footer&text=Wake%20up,%20samurai.&fontSize=22&fontColor=ff2a6d&animation=twinkling"/>
-</div>
+<footer class="portfolio-footer">
+        <div class="footer-banner">
+            <img src="your-anime-image.jpg" alt="Аниме персонаж" class="banner-bg">
+            <div class="banner-overlay"></div>
+            <div class="banner-content">
+                <h2>Создаю с душой</h2>
+                <p>Серьезный подход к деталям и капля креатива в каждом проекте.</p>
+            </div>
+            <div class="penguin-float">
+                <img src="your-penguin-image.png" alt="Милый пингвинчик">
+            </div>
+        </div>
+    </footer>
+
