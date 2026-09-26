@@ -43,8 +43,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DmitryKarzanov&theme=dark&background=0d0221&border=7700ff&ring=ff2a6d&fire=05d9e8&currStreakLabel=ff2a6d&sideLabels=d1f7ff&dates=d1f7ff"/>
 </p>
-Это справа 
-
 
  🏆Competitive Programming
 
@@ -60,7 +58,6 @@
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=KarzanovDmitry&theme=dark"/>
 </p>
-Это слева
 
  🌐 Contact
 
@@ -88,8 +85,7 @@
 
 </div>
 
-<p></p>
-
+<p>
 <!-- Блок портфолио -->
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 25px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 800px; margin: 0 auto; overflow: hidden;">
 
@@ -112,4 +108,4 @@
   </div>
 
 </div>
-
+</p>
