@@ -93,7 +93,7 @@
   
   <tr>
     <td colspan="2" style="padding: 0;">
-      <img src="assets/reze" alt="Anime Banner" width="100%" style="display: block; height: 260px; object-fit: cover; object-position: center 30%; filter: brightness(0.65) contrast(1.1);">
+      <img src="assets/reze.jpg" alt="Anime Banner" width="100%" style="display: block; height: 260px; object-fit: cover; object-position: center 30%; filter: brightness(0.65) contrast(1.1);">
     </td>
   </tr>
   <tr>
@@ -106,7 +106,7 @@
       </div>
     </td>
     <td width="160" style="padding: 30px 40px 30px 10px; vertical-align: bottom; text-align: right;">
-      <img src="assets/ping" alt="Penguin" width="120" style="border-radius: 14px; display: inline-block; filter: drop-shadow(0 0 15px rgba(88, 166, 255, 0.4));">
+      <img src="assets/ping.jpg" alt="Penguin" width="120" style="border-radius: 14px; display: inline-block; filter: drop-shadow(0 0 15px rgba(88, 166, 255, 0.4));">
     </td>
   </tr>
 
