@@ -104,12 +104,10 @@
     <p style="font-size: 28px; font-weight: 800; color: #e6edf3; margin: 0; line-height: 1.1; letter-spacing: -1px;">
       Пора двигаться дальше.
     </p>
-    
     <p style="font-size: 16px; font-weight: 400; color: #8b949e; margin: 20px 0 0 0; line-height: 1.6;">
       Оставить в прошлом.<br>
       Собрать осколки.
     </p>
-    
     <p style="font-size: 15px; font-style: italic; color: #58a6ff; margin: 20px 0 0 0; font-weight: 300;">
       И шагнуть в тишину океана.
     </p>
