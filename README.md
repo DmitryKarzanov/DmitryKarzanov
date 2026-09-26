@@ -88,6 +88,8 @@
 
 </div>
 
+<p></p>
+
 <!-- Блок портфолио -->
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 25px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 800px; margin: 0 auto; overflow: hidden;">
 
@@ -103,10 +105,6 @@
   <div align="left" style="padding-top: 10px;">
     <p style="font-size: 28px; font-weight: 800; color: #e6edf3; margin: 0; line-height: 1.1; letter-spacing: -1px;">
       Пора двигаться дальше.
-    </p>
-    <p style="font-size: 16px; font-weight: 400; color: #8b949e; margin: 20px 0 0 0; line-height: 1.6;">
-      Оставить в прошлом.<br>
-      Собрать осколки.
     </p>
     <p style="font-size: 15px; font-style: italic; color: #58a6ff; margin: 20px 0 0 0; font-weight: 300;">
       И шагнуть в тишину океана.
