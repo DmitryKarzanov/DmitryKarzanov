@@ -88,27 +88,32 @@
 
 </div>
 
-<!-- Футер портфолио -->
-<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; overflow: hidden; max-width: 800px; margin: 0 auto;">
-  
-  <tr>
-    <td colspan="2" style="padding: 0;">
-      <img src="assets/reze.jpg" alt="Anime Banner" width="100%" style="display: block; height: 260px; object-fit: cover; object-position: center 30%; filter: brightness(0.65) contrast(1.1);">
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 45px 20px 45px 40px; vertical-align: middle;">
-      <div style="border-left: 3px solid #58a6ff; padding-left: 20px;">
-        <p style="margin: 0; line-height: 1.5;">
-          <span style="font-size: 26px; font-weight: 800; color: #e6edf3; letter-spacing: -0.5px;">Разорванный ритм.</span><br>
-          <span style="font-size: 20px; font-weight: 400; color: #8b949e;">Собранный из строк.</span>
-        </p>
-      </div>
-    </td>
-    <td width="160" style="padding: 30px 40px 30px 10px; vertical-align: bottom; text-align: right;">
-      <img src="assets/ping.jpg" alt="Penguin" width="120" style="border-radius: 14px; display: inline-block; filter: drop-shadow(0 0 15px rgba(88, 166, 255, 0.4));">
-    </td>
-  </tr>
+<!-- Блок портфолио -->
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 25px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 800px; margin: 0 auto; overflow: hidden;">
 
-</table>
+  <!-- Баннер по центру -->
+  <div align="center" style="margin-bottom: 35px;">
+    <img src="assets/reze.jpg" alt="Аниме баннер" width="100%" style="border-radius: 10px; filter: brightness(0.65) contrast(1.1);" />
+  </div>
+
+  <!-- Пингвин справа -->
+  <img src="assets/ping.jpg" alt="Пингвин" align="right" width="140" style="border-radius: 14px; margin-left: 35px; margin-bottom: 15px; filter: drop-shadow(0 4px 15px rgba(88, 166, 255, 0.4));" />
+
+  <!-- Текст слева -->
+  <div align="left" style="padding-top: 10px;">
+    <p style="font-size: 28px; font-weight: 800; color: #e6edf3; margin: 0; line-height: 1.1; letter-spacing: -1px;">
+      Пора двигаться дальше.
+    </p>
+    
+    <p style="font-size: 16px; font-weight: 400; color: #8b949e; margin: 20px 0 0 0; line-height: 1.6;">
+      Оставить в прошлом.<br>
+      Собрать осколки.
+    </p>
+    
+    <p style="font-size: 15px; font-style: italic; color: #58a6ff; margin: 20px 0 0 0; font-weight: 300;">
+      И шагнуть в тишину океана.
+    </p>
+  </div>
+
+</div>
 
