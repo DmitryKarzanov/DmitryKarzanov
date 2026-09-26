@@ -88,17 +88,40 @@
 
 </div>
 
-<footer class="portfolio-footer">
-        <div class="footer-banner">
-            <img src="your-anime-image.jpg" alt="Аниме персонаж" class="banner-bg">
-            <div class="banner-overlay"></div>
-            <div class="banner-content">
-                <h2>Создаю с душой</h2>
-                <p>Серьезный подход к деталям и капля креатива в каждом проекте.</p>
-            </div>
-            <div class="penguin-float">
-                <img src="your-penguin-image.png" alt="Милый пингвинчик">
-            </div>
-        </div>
-    </footer>
+<!-- Футер портфолио -->
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; overflow: hidden; max-width: 800px; margin: 0 auto;">
+  
+  <!-- Верхняя часть: Аниме-баннер -->
+  <tr>
+    <td colspan="2" style="padding: 0;">
+      <img src="/assets/reze.jpg" alt="Anime Banner" width="100%" style="display: block; height: 250px; object-fit: cover; object-position: center 30%; filter: brightness(0.7);">
+    </td>
+  </tr>
+  
+  <!-- Нижняя часть: Текст и Пингвин -->
+  <tr>
+    <!-- Левая колонка: Текст и ссылки -->
+    <td style="padding: 30px; vertical-align: top;">
+      <h2 style="color: #ffffff; margin-top: 0; margin-bottom: 10px; font-size: 24px; font-weight: 600;">Создаю с душой</h2>
+      <!-- Кнопки-ссылки -->
+      <table style="border-collapse: collapse;">
+        <tr>
+          <td style="padding-right: 12px;">
+        </tr>
+      </table>
+    </td>
+    <!-- Правая колонка: Пингвинчик -->
+    <td width="140" style="padding: 30px; vertical-align: bottom; text-align: right;">
+      <img src="/assets/ping.jpg" alt="Penguin" width="100" style="border-radius: 10px; display: inline-block; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+    </td>
+  </tr>
+  
+  <!-- Самый низ: Копирайт -->
+  <tr>
+    <td colspan="2" style="padding: 15px 30px; background-color: #161b22; border-top: 1px solid #30363d; text-align: center;">
+      <p style="color: #8b949e; font-size: 12px; margin: 0;">&copy; 2024 Ваше Имя. Все права защищены.</p>
+    </td>
+  </tr>
+  
+</table>
 
