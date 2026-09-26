@@ -91,37 +91,24 @@
 <!-- Футер портфолио -->
 <table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; overflow: hidden; max-width: 800px; margin: 0 auto;">
   
-  <!-- Верхняя часть: Аниме-баннер -->
   <tr>
     <td colspan="2" style="padding: 0;">
-      <img src="assets/reze.jpg" alt="Anime Banner" width="100%" style="display: block; height: 250px; object-fit: cover; object-position: center 30%; filter: brightness(0.7);">
+      <img src="assets/reze" alt="Anime Banner" width="100%" style="display: block; height: 260px; object-fit: cover; object-position: center 30%; filter: brightness(0.65) contrast(1.1);">
     </td>
   </tr>
-  
-  <!-- Нижняя часть: Текст и Пингвин -->
   <tr>
-    <!-- Левая колонка: Текст и ссылки -->
-    <td style="padding: 30px; vertical-align: top;">
-      <h2 style="color: #ffffff; margin-top: 0; margin-bottom: 10px; font-size: 24px; font-weight: 600;">Создаю с душой</h2>
-      <!-- Кнопки-ссылки -->
-      <table style="border-collapse: collapse;">
-        <tr>
-          <td style="padding-right: 12px;">
-        </tr>
-      </table>
+    <td style="padding: 45px 20px 45px 40px; vertical-align: middle;">
+      <div style="border-left: 3px solid #58a6ff; padding-left: 20px;">
+        <p style="margin: 0; line-height: 1.5;">
+          <span style="font-size: 26px; font-weight: 800; color: #e6edf3; letter-spacing: -0.5px;">Разорванный ритм.</span><br>
+          <span style="font-size: 20px; font-weight: 400; color: #8b949e;">Собранный из строк.</span>
+        </p>
+      </div>
     </td>
-    <!-- Правая колонка: Пингвинчик -->
-    <td width="140" style="padding: 30px; vertical-align: bottom; text-align: right;">
-      <img src="assets/ping.jpg" alt="Penguin" width="100" style="border-radius: 10px; display: inline-block; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+    <td width="160" style="padding: 30px 40px 30px 10px; vertical-align: bottom; text-align: right;">
+      <img src="assets/ping" alt="Penguin" width="120" style="border-radius: 14px; display: inline-block; filter: drop-shadow(0 0 15px rgba(88, 166, 255, 0.4));">
     </td>
   </tr>
-  
-  <!-- Самый низ: Копирайт -->
-  <tr>
-    <td colspan="2" style="padding: 15px 30px; background-color: #161b22; border-top: 1px solid #30363d; text-align: center;">
-      <p style="color: #8b949e; font-size: 12px; margin: 0;">&copy; 2024 Ваше Имя. Все права защищены.</p>
-    </td>
-  </tr>
-  
+
 </table>
 
